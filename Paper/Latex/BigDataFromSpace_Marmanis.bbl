@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{chen2016target}
+Sizhe Chen, Haipeng Wang, Feng Xu, and Ya-Qiu Jin,
+\newblock ``Target classification using the deep convolutional networks for sar
+  images,''
+\newblock {\em IEEE Transactions on Geoscience and Remote Sensing}, vol. 54,
+  no. 8, pp. 4806--4817, 2016.
+
+\bibitem{lin2017deep}
+Zhao Lin, Kefeng Ji, Miao Kang, Xiangguang Leng, and Huanxin Zou,
+\newblock ``Deep convolutional highway unit network for sar target
+  classification with limited labeled training data,''
+\newblock {\em IEEE Geoscience and Remote Sensing Letters}, 2017.
+
+\bibitem{ding2016convolutional}
+Jun Ding, Bo~Chen, Hongwei Liu, and Mengyuan Huang,
+\newblock ``Convolutional neural network with data augmentation for sar target
+  recognition,''
+\newblock {\em IEEE Geoscience and Remote Sensing Letters}, vol. 13, no. 3, pp.
+  364--368, 2016.
+
+\bibitem{guo2017synthetic}
+Jiayi Guo, Bin Lei, Chibiao Ding, and Yueting Zhang,
+\newblock ``Synthetic aperture radar image synthesis by using generative
+  adversarial nets,''
+\newblock {\em IEEE Geoscience and Remote Sensing Letters}, 2017.
+
+\bibitem{perezsemi}
+Anthony Perez, Swetava Ganguli, Stefano Ermon, George Azzari, Marshall Burke,
+  and David Lobell,
+\newblock ``Semi-supervised multitask learning on multispectral satellite
+  images using wasserstein generative adversarial networks (gans) for
+  predicting poverty,''
+\newblock {\em Technical Report}, 2017.
+
+\bibitem{lin2016deep}
+DaoYu Lin,
+\newblock ``Deep unsupervised representation learning for remote sensing
+  images,''
+\newblock {\em arXiv preprint arXiv:1612.08879}, 2016.
+
+\bibitem{merkle2017possibility}
+Nina Merkle, Peter Fischer, Stefan Auer, and Rupert M{\"u}ller,
+\newblock ``On the possibility of conditional adversarial networks for sar
+  template generation,''
+\newblock in {\em Geoscience and Remote Sensing Symposium (IGARSS), 2017 IEEE
+  International}. IEEE, 2017.
+
+\bibitem{dumitru2016land}
+Corneliu~Octavian Dumitru, Gottfried Schwarz, and Mihai Datcu,
+\newblock ``Land cover semantic annotation derived from high-resolution sar
+  images,''
+\newblock {\em IEEE Journal of Selected Topics in Applied Earth Observations
+  and Remote Sensing}, vol. 9, no. 6, pp. 2215--2232, 2016.
+
+\bibitem{he2016deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun,
+\newblock ``Deep residual learning for image recognition,''
+\newblock in {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, 2016, pp. 770--778.
+
+\bibitem{wang2017adversarial}
+Xinlong Wang, Mingyu You, and Chunhua Shen,
+\newblock ``Adversarial generation of training examples for vehicle license
+  plate recognition,''
+\newblock {\em arXiv preprint arXiv:1707.03124}, 2017.
+
+\bibitem{berthelot2017began}
+David Berthelot, Tom Schumm, and Luke Metz,
+\newblock ``Began: Boundary equilibrium generative adversarial networks,''
+\newblock {\em arXiv preprint arXiv:1703.10717}, 2017.
+
+\end{thebibliography}
